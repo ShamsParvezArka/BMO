@@ -2,7 +2,7 @@
 	BMO Documentation
 </h1>
 
-### How to execute a program
+## How to execute a program
 ```powershell
 java -jar bmo.jar [script.bmo]
 ```
@@ -12,17 +12,17 @@ java -jar bmo.jar .\main.bmo
 ```
 > n.b we highly recomend to use the windows powershell as a shell emulator.
 
-### Printing "Hello, world!"
+## Printing "Hello, world!"
 ```
 print "Hello, world!"
 ```
 
-### Comments
+## Comments
 ```
 // hi, this is a comment
 ```
 
-### Variable Declaration
+## Variable Declaration
 ```
 var name = "BMO";
 var version = "0.0.1";
@@ -30,7 +30,7 @@ var is_cool = true;
 var magic_number = 69;
 ```
 
-### Scopes
+## Scopes
 ```
 var a = "outer";
 {
@@ -40,7 +40,7 @@ var a = "outer";
 print a;
 ``` 
 
-### Control Flow
+## Control Flow
 ```
 var is_cool = true;
 if (is_cool) 
@@ -53,7 +53,7 @@ else
 }
 ```
 
-### Loops
+## Loops
 ```
 // normal for loop
 for (var i = 1; i < 5; i = i + 1)
@@ -70,7 +70,7 @@ while (i < 5)
 }
 ```
 
-### Functions
+## Functions
 ```
 // fibonacci function
 fun fib(n) {

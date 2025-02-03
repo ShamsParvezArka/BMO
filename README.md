@@ -5,7 +5,7 @@
 *DISCLAIMER: This project is currently in PRE-ALPHA. Please don't expect anything magical from it.*
 
 
-## About BMO:
+## About BMO
 BMO is an interpreted programming language designed with experimentation with procedural programming paradigm. It's syntax are mostly inspired from C and Python. 
 
 ## Requirements
