@@ -12,9 +12,9 @@ BMO is an interpreted programming language designed with experimentation with pr
 - Java 23
 
 ## Installation
-#### - Pre-build
-You can download pre-build `jar` file from here.
-#### - Build from scratch
+### Download the pre-compiled version
+You can download pre-compiled `jar` file from [here](https://github.com/ShamsParvezArka/BMO/releases/download/bmo/bmo.jar).
+### Build from source
 1. Clone this repo
 ```shell
 git clone https://github.com/EpicGamesExt/raddebugger.git
@@ -22,9 +22,9 @@ git clone https://github.com/EpicGamesExt/raddebugger.git
 2. Execute the `build.ps1` powershell script. All the class file will be generated in the `class` directory.
 ```powershell
 .\build.ps1
+.\build.ps1 compress
 ```
-3. Head up to the `class` directory and run bmo
-```powershell
-java Bmo .\main.bmo
-```
-> n.b you need to create main.bmo in the class directory additionally.
+> Build successful! Check the `build` directory.
+
+### Documentation
+All documentations of this language has been moved in the [documentation](https://github.com/ShamsParvezArka/BMO/blob/main/DOCUMENTATION.md) section.
