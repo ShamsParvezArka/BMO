@@ -27,4 +27,4 @@ git clone https://github.com/EpicGamesExt/raddebugger.git
 ```powershell
 java Bmo .\main.bmo
 ```
-	n.b you need to create main.bmo file in the class directory additionally.
+> n.b you need to create main.bmo in the class directory additionally.
