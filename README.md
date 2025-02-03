@@ -5,15 +5,15 @@
 *DISCLAIMER: This project is currently in PRE-ALPHA. Please don't expect anything magical from it.*
 
 
-### About BMO:
+## About BMO:
 BMO is an interpreted programming language designed with experimentation with procedural programming paradigm. It's syntax are mostly inspired from C and Python. 
 
-### Requirements
+## Requirements
 - Java 23
 
-### Installation
+## Installation
 #### Pre-build
-- You can download pre-build `jar` file from here.
+You can download pre-build `jar` file from here.
 #### Build from scratch
 - Clone this repo
 ```shell
