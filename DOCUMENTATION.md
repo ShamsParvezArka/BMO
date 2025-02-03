@@ -10,7 +10,7 @@ There's a `main.bmo` file already provided in the `build` directory. To execute 
 ```powershell
 java -jar bmo.jar .\main.bmo
 ```
-> n.b. we highly recomend to use the windows powershell as a shell emulator.
+> n.b. we highly recommend to use the windows powershell as a shell emulator.
 
 ## Printing "Hello, world!"
 ```
