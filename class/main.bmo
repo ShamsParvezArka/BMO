@@ -1,5 +1,0 @@
-fun morphfoo() {
-	print "hi"
-}
-
-morphfoo();
