@@ -2,6 +2,8 @@
 	BMO Documentation
 </h1>
 
+> Go back to [main page](https://github.com/ShamsParvezArka/bmo)
+
 ## How to execute a program
 ```powershell
 java -jar bmo.jar [script.bmo]
