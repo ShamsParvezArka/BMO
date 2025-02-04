@@ -6,11 +6,11 @@
 
 ## How to execute a program
 ```powershell
-java -jar bmo.jar [script.bmo]
+java -jar .\bmo.jar [script.bmo]
 ```
 There's a `main.bmo` file already provided in the `build` directory. To execute this scirpt simply do
 ```powershell
-java -jar bmo.jar .\main.bmo
+java -jar .\bmo.jar .\main.bmo
 ```
 > n.b. we highly recommend to use the windows powershell as a shell emulator.
 
