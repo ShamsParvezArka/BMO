@@ -1,4 +1,4 @@
-print "1st 20 Fibonacci sequence generated:"
+print "1st 20 Fibonacci sequence generated:";
 
 fun fib(n) 
 {
