@@ -16,7 +16,7 @@ java -jar .\bmo.jar .\main.bmo
 
 ## Printing "Hello, world!"
 ```
-print "Hello, world!"
+print "Hello, world!";
 ```
 
 ## Comments
