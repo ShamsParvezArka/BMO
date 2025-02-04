@@ -5,13 +5,13 @@
 *DISCLAIMER: This project is currently in PRE-ALPHA. Please don't expect anything magical from it.*
 
 
-## About BMO
+## ℹ️ About BMO
 BMO is an interpreted programming language designed with experimentation with procedural programming paradigm. It's syntax are mostly inspired from C and Python. 
 
-## Requirements
+## ⚡ Requirements
 - Java 23
 
-## Installation
+## 🛠️ Installation
 ### Download the pre-compiled version
 You can download pre-compiled `jar` file from [here](https://github.com/ShamsParvezArka/BMO/releases/download/bmo/bmo.jar).
 ### Build from source
@@ -26,5 +26,5 @@ git clone https://github.com/EpicGamesExt/raddebugger.git
 ```
 > Build successful! Check the `build` directory.
 
-### Documentation
+### 🗺️ Documentation
 All documentations of this language has been moved in the [documentation](https://github.com/ShamsParvezArka/BMO/blob/main/DOCUMENTATION.md) section.
