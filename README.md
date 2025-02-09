@@ -28,3 +28,6 @@ git clone https://github.com/EpicGamesExt/raddebugger.git
 
 ### 🗺️ Documentation
 All documentations of this language has been moved in the [documentation](https://github.com/ShamsParvezArka/BMO/blob/main/DOCUMENTATION.md) section.
+
+## Team BMO
+![](image/team.jpg)
